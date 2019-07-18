@@ -1,0 +1,15 @@
+{
+    "Hospitals": {
+      "private": [
+        {
+          "h_name": "kibagabaga hospital","longitude":-1.930830,"latitude":30.112003
+        }
+      ],
+      "public": [
+        {
+          "h_name": "Muhima Hospital"
+        }
+      ]
+    }
+  }
+

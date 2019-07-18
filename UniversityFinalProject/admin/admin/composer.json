@@ -1,0 +1,6 @@
+{
+    "require": {
+        "twilio/sdk": "^5.34",
+        "setasign/fpdf": "^1.8"
+    }
+}
